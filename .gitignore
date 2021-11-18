@@ -1,0 +1,5 @@
+*.h5
+*.txt
+.idea
+__pycache__
+Pipfile.lock
